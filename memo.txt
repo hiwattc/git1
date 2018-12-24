@@ -1,0 +1,1 @@
+Hi This is memo for git commit test!
